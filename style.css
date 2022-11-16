@@ -54,6 +54,7 @@
         justify-content: center;
         flex-direction: column;
         align-items: center;
+       
         
        
 
@@ -136,6 +137,140 @@
         border: 1px solid black;
 
     }
+
+
+
+
+
+
+
+@media screen and (min-width: 769px) {
+  
+    body {
+        
+        background-color:#E2FFD9;
+
+        }
+
+
+        h1 {
+
+            text-align: center;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: #239400;
+            font-style: italic;
+            border: 5px solid;
+            font-size: 300%;
+            margin: 1%;
+            padding: 1%;
+            margin-bottom: 5%;
+            
+            
+        
+        
+        }
+
+
+
+
+        .planete { 
+            padding: 1%;
+            margin: 1%;
+             width: 100%;
+
+        
+        
+        }
+
+
+        .gaz {
+
+            color: #239400;
+            line-height: 1.6;
+            padding: 10%;
+            margin: 10%;
+            border: 5px solid;
+            font-style: normal;
+}
+
+
+        .graph {
+            
+            width: 80%;
+            margin: 10%;
+            padding: 0%;
+
+        }
+
+
+       .align {
+
+            display: flex;
+            text-align: center;
+           
+        }
+
+
+       
+        .align2 {
+
+            display: flex;
+            text-align: center;
+
+
+
+        }
+
+        .align3 {
+
+            display: flex;
+            justify-content: center;
+
+
+
+        }
+
+
+        .video {
+
+            display: flex;
+            justify-content: center;
+            margin: 20%;
+           
+
+
+    }
+
+
+
+    .down {
+
+        color: #239400;
+        display: flex;
+        justify-content: center;
+       padding: 2%;
+       margin: 1%;
+
+
+
+    }
+
+
+
+    .listfooter {
+        margin: 0 auto;
+        display: flex;
+        
+
+    }
+
+
+    footer {
+
+        border: 1px solid black;
+
+    }
+
 
 
 
