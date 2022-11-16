@@ -1,0 +1,59 @@
+@media screen and (max-width: 768px) {
+
+    body {
+             background-color: #E2FFD9;
+        }
+
+    h1 {
+        
+            font-size: 300%;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: #239400;
+            font-style: italic;
+        
+        }
+
+    .planete { 
+
+             width: 100%;
+            
+
+         }
+
+
+         p {
+
+            color: #239400;
+          
+
+    }
+
+
+
+    .graph {
+            
+            width: 50%;
+            
+        
+        }
+
+
+    
+
+  
+
+    span {
+
+            font-weight: bolder;
+
+
+    }
+
+
+
+
+
+
+
+
+}
