@@ -1,0 +1,312 @@
+@media screen and (max-width: 768px) {
+
+    body {
+             background-color: #E2FFD9;
+        }
+
+    h1 {
+            margin: 2%;
+            padding: 1%;
+            font-size: 300%;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: #239400;
+            font-style: italic;
+            border: 5px solid
+        
+        }
+
+    .planete { 
+            padding: 1%;
+            margin-top: 10%;
+             width: 100%;
+            
+
+         }
+
+
+         .gaz {
+
+            color: #239400;
+            line-height: 1.6;
+            padding: 10%;
+            margin: 10%;
+            border: 5px solid;
+            font-style: normal;
+            
+
+
+    }
+
+
+
+    .graph {
+            
+            width: 80%;
+            margin: 10%;
+            padding: 0%;
+            
+        
+        }
+    
+    .text2 {
+
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+       
+        
+       
+
+
+    }
+
+
+        
+    .align p {
+
+
+        margin: 1%;
+        padding: 0;
+
+    }
+
+
+
+    }
+
+    .align2 p {
+
+
+        margin: 0;
+        padding: 0;
+
+    }
+
+
+
+    
+    p {
+
+            color: #239400;
+            line-height: 1.3;
+            padding: 5%;
+            margin: 5%;
+            display: flex;
+            font-style: italic;
+            
+
+    }
+    
+
+  
+
+    span {
+
+            font-weight: bolder;
+            font-style: normal;
+
+
+    }
+
+
+    h2 {
+
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #239400;
+        margin: 10%;
+        font-size: 150%;
+        text-decoration: underline;
+
+    }
+
+
+    .video {
+
+            display: flex;
+            justify-content: center;
+            margin: 20%;
+
+
+    }
+
+    .down {
+
+        color: #239400;
+        display: flex;
+        justify-content: center;
+       padding: 2%;
+       margin: 1%;
+
+
+
+    }
+
+    .listfooter {
+        margin: 0 auto;
+        display: flex;
+        
+
+    }
+
+
+    footer {
+
+        border: 1px solid black;
+
+    }
+
+
+
+
+
+
+
+@media screen and (min-width: 769px) {
+  
+    body {
+        
+        background-color:#E2FFD9;
+
+        }
+
+
+        h1 {
+
+            text-align: center;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: #239400;
+            font-style: italic;
+            border: 5px solid;
+            font-size: 300%;
+            margin: 1%;
+            padding: 1%;
+            margin-bottom: 5%;
+            
+            
+        
+        
+        }
+
+
+
+
+        .planete { 
+            padding: 1%;
+            margin: 1%;
+             width: 100%;
+
+        
+        
+        }
+
+
+        .gaz {
+
+            color: #239400;
+            line-height: 1.6;
+            padding: 10%;
+            margin: 10%;
+            border: 5px solid;
+            font-style: normal;
+}
+
+
+        .graph {
+            
+            width: 80%;
+            margin: 10%;
+            padding: 0%;
+
+        }
+
+
+       .align {
+
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+          
+        }
+
+        .align p {
+
+
+            margin: 0;
+            padding: 0;
+
+        }
+
+       
+        .align2 {
+            
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+
+
+        }
+
+        .align2 p {
+
+
+            margin: 0;
+            padding: 0;
+                       
+        }
+        .align3 p {
+
+            display: flex;
+            justify-content: center;
+
+
+
+        }
+
+
+        .video {
+
+            display: flex;
+            justify-content: center;
+            margin: 20%;
+           
+
+
+    }
+
+
+
+    .down {
+
+        color: #239400;
+        display: flex;
+        justify-content: center;
+       padding: 2%;
+       margin: 1%;
+
+
+
+    }
+
+
+
+    .listfooter {
+        margin: 0 auto;
+        display: flex;
+        
+
+    }
+
+
+    footer {
+
+        border: 1px solid black;
+
+    }
+
+
+
+
+}
