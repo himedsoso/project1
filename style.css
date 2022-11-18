@@ -1,33 +1,32 @@
+@media screen and (min-width: 769px) {
+
+
+
 body {
 
-    background-color: #E2FFD9;
-    max-height: 100%;
-    max-width: 100%;
+        background-color: #E2FFD9;
+        max-height: 100%;
+        max-width: 100%;
     
    
 
-}
+    }
 
 
 
 .img-accueil {
    
-   width: 80%;
-   margin: 5%;
+        width: 80%;
+         margin: 5%;
    
 }
 
 nav {
 
-    display: flex;
-   
+        display: flex;
+        margin: 5%;
     
-     margin: 5%;
-
-     
-    
-
-}
+    }
 
 .onglet {
 
@@ -45,20 +44,29 @@ nav {
 
 .none {
     
-    text-decoration: none;
-
-    color: #239400;
+        text-decoration: none;
+        color: #239400;
+    
 
 
 }
 
+
+.none:hover {
+
+
+    color: orange;
+
+}
+
+
 h1 {
     
-    text-align: center;
-    margin-bottom: 10%;
-    margin-top: 10%;
-    font-size: 300%;
-    color: #239400;
+        text-align: center;
+        margin-bottom: 10%;
+        margin-top: 10%;
+        font-size: 300%;
+        color: #239400;
 
 
 }
@@ -75,12 +83,12 @@ h1 {
 
 h2 {
 
-margin-left: 5%;
-margin-bottom: 10%;
-font-size: 200%;
-text-decoration: underline;
-color: #239400;
-font-weight: bold;
+        margin-left: 5%;
+        margin-bottom: 10%;
+        font-size: 200%;
+        text-decoration: underline;
+        color: #239400;
+        font-weight: bold;
 
 }
 
@@ -96,90 +104,92 @@ font-weight: bold;
 
 h3 {
 
-text-align: center;
-margin: 5%;
-font-size: 150%;
-color: #239400;
-margin-top: 10%;
+        text-align: center;
+        margin: 5%;
+        font-size: 150%;
+        color: #239400;
+        margin-top: 10%;
 
 
 }
 
 .ecolo {
-    margin-top: 10%;
-    margin-left: 5%;
-    line-height: 1.6;
-    text-align: center;
-    margin-bottom: 5%;
-    color: #239400;
-    margin-bottom: 10%;
-    margin-right: 10%;
+
+
+        margin-top: 10%;
+        margin-left: 5%;
+        line-height: 1.6;
+        text-align: center;
+        margin-bottom: 5%;
+        color: #239400;
+        margin-bottom: 10%;
+        margin-right: 10%;
 
 }
 
 h4 {
     
-    text-align: center;
-    margin: 5%;
-    font-size: 150%;
-    color: #239400;
+        text-align: center;
+        margin: 5%;
+        font-size: 150%;
+        color: #239400;
 
 }
 
 
 .respect {
     
-    margin-top: 10%;
-    margin-left: 5%;
-    line-height: 1.6;
-    text-align: center;
-    margin-bottom: 10%;
-    margin-right: 10%;
-    color: #239400;
+        margin-top: 10%;
+        margin-left: 5%;
+        line-height: 1.6;
+        text-align: center;
+        margin-bottom: 10%;
+        margin-right: 10%;
+        color: #239400;
 }
 
 h5 {
     
     
-    text-align: center;
-    margin: 5%;
-    margin-top: 10%;
-    font-size: 150%;
-    color: #239400;
+        text-align: center;
+        margin: 5%;
+        margin-top: 10%;
+        font-size: 150%;
+        color: #239400;
 
 }
 
 .non-respect {
 
 
-    margin-left: 5%;
-    margin-top: 10%;
+        margin-left: 5%;
+        margin-top: 10%;
+        line-height: 1.6;
+        text-align: center;
+        margin-bottom: 10%;
+        margin-right: 10%;
+        color: #239400;
     
-    line-height: 1.6;
-    text-align: center;
-    margin-bottom: 10%;
-    margin-right: 10%;
-    color: #239400;
 
 }
 
 h6 { 
-    text-align: center;
-    margin: 5%;
-    font-size: 150%;
-    color: #239400;
+        text-align: center;
+        margin: 5%;
+        font-size: 150%;
+        color: #239400;
 
 }
 
 .conseil {
 
-    margin-left: 5%;
-    margin-top: 10%;
-    line-height: 1.6;
-    text-align: center;
-    margin-bottom: 5%;
-    margin-right: 10%;
-    color: #239400;
+        margin-left: 5%;
+        margin-top: 10%;
+        line-height: 1.6;
+        text-align: center;
+        margin-bottom: 5%;
+        margin-right: 10%;
+        color: #239400;
 
 
 }
@@ -187,12 +197,12 @@ h6 {
 
 .down {
 
-    color: #239400;
-    display: flex;
-    justify-content: center;
-   padding: 2%;
-   margin: 1%;
-    margin-left: 10%;
+        color: #239400;
+        display: flex;
+        justify-content: center;
+        padding: 2%;
+        margin: 1%;
+        margin-left: 10%;
 
 
 }
@@ -200,16 +210,243 @@ h6 {
 
 
 .listfooter {
-    margin: 0 auto;
-    display: flex;
-    
-    
 
+        margin: 0 auto;
+        display: flex;
+    
 }
 
 
 footer {
-    margin-top: 10%;
-    border: 1px solid black;
+
+        margin-top: 10%;
+        border: 1px solid black;
+
+}
+
+}
+
+@media screen and (max-width: 768px) {
+
+    body {
+
+        background-color: #E2FFD9;
+       
+        
+       }
+
+
+       .img-accueil {
+   
+            width: 90%;
+            margin: 5%;
+        
+        
+     }
+
+     nav {
+
+            display: flex;
+            margin: 5%;
+
+       
+     }
+    
+    
+
+
+     .onglet {
+        
+        display: flex;
+        margin: 5%;
+        margin-bottom: 0%;
+        color: #239400;
+        font-weight: bold;
+        font-size: 10px;
+        
+        }
+
+
+     .none {
+    
+        color: #239400;
+    
+    }
+
+    .none:hover {
+
+
+        color: orange;
+    
+    
+    
+    
+    }
+    
+    h1 {
+    
+        text-align: center;
+        margin-bottom: 10%;
+        margin-top: 10%;
+        font-size: 300%;
+        color: #239400;
+    
+    
+    }
+
+
+    .welcome {
+
+        width: 90%;
+        margin-bottom: 10%;
+        margin-left: 5%;
+        margin-right: 5%;
+        
+
+}
+
+h2 {
+
+        margin-left: 5%;
+        margin-bottom: 10%;
+        font-size: 200%;
+        text-decoration: underline;
+        color: #239400;
+        font-weight: bold;
+
+}
+
+.titre {
+        
+        margin-left: 10%;
+        margin-bottom: 2%;
+        list-style: circle;
+        font-size: 150%;
+       
+
+}
+
+h3 {
+
+        text-align: center;
+        margin: 5%;
+        font-size: 150%;
+        color: #239400;
+        margin-top: 10%;
+
+
+}
+
+.ecolo {
+
+        margin-top: 10%;
+        margin-left: 5%;
+        line-height: 1.6;
+        text-align: center;
+        margin-bottom: 5%;
+        color: #239400;
+        margin-bottom: 10%;
+        margin-right: 10%;
+
+}
+
+h4 {
+    
+        text-align: center;
+        margin: 5%;
+        font-size: 150%;
+        color: #239400;
+
+}
+
+
+.respect {
+    
+        margin-top: 10%;
+        margin-left: 5%;
+        line-height: 1.6;
+        text-align: center;
+        margin-bottom: 10%;
+        margin-right: 10%;
+        color: #239400;
+}
+
+h5 {
+    
+    
+        text-align: center;
+        margin: 5%;
+        margin-top: 10%;
+        font-size: 150%;
+        color: #239400;
+
+}
+
+.non-respect {
+
+
+        margin-left: 5%;
+        margin-top: 10%;
+        line-height: 1.6;
+        text-align: center;
+        margin-bottom: 10%;
+        margin-right: 10%;
+        color: #239400;
+
+}
+
+h6 { 
+
+        text-align: center;
+        margin: 5%;
+        font-size: 150%;
+        color: #239400;
+
+}
+
+.conseil {
+
+        margin-left: 5%;
+        margin-top: 10%;
+        line-height: 1.6;
+        text-align: center;
+        margin-bottom: 5%;
+        margin-right: 10%;
+        color: #239400;
+
+
+}
+
+
+.down {
+
+        color: #239400;
+        display: flex;
+        justify-content: center;
+        padding: 2%;
+        margin: 1%;
+        margin-left: 10%;
+
+
+}
+
+
+
+.listfooter {
+
+        margin: 0 auto;
+        display: flex;
+    
+}
+
+
+footer {
+
+        margin-top: 10%;
+        border: 1px solid black;
+
+}
+
+
 
 }
