@@ -298,7 +298,22 @@
 
 
         }
-
+        .none {
+    
+            text-decoration: none;
+            color: #239400;
+        
+    
+    
+    }
+    
+    
+        .none:hover {
+    
+    
+        color: orange;
+    
+    }
 
 
     .listfooter {
