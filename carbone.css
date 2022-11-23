@@ -12,6 +12,7 @@
             color: #239400;
             font-style: italic;
             border: 5px solid
+            
         
         }
 
@@ -154,7 +155,7 @@
 
     footer {
 
-             border: 1px solid black;
+             border: 1px solid #239400;
 
     }
 
@@ -331,7 +332,7 @@
 
     footer {
 
-            border: 1px solid black;
+            border: 1px solid #239400;
 
     }
 

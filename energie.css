@@ -1,0 +1,467 @@
+@media screen and (min-width: 769px) {
+    body {
+
+        background-color: #E2FFD9;
+       
+         }
+
+         h1 {
+            text-align: center;
+            margin: 2%;
+            padding: 1%;
+            padding-left: 10%;
+            font-size: 300%;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: #239400;
+            font-style: italic;
+            border: 5px solid
+            
+        
+        }
+
+        .picture1 { 
+            padding: 1%;
+            margin-top: 10%;
+            margin-left: 5%;
+            width: 100%;
+        }
+
+        .main {
+
+            width: 80%;
+
+        }
+
+        h2 {
+
+            margin-left: 5%;
+            margin-top: 10%;
+            margin-bottom: 10%;
+            font-size: 200%;
+            text-decoration: underline;
+            color: #239400;
+            font-weight: bold;
+    
+    }
+
+    .titre {
+        
+        margin-left: 10%;
+        margin-bottom: 2%;
+        list-style: circle;
+        font-size: 150%;
+    }
+
+    .none {
+    
+        text-decoration: none;
+        color: #239400;
+    
+
+
+}
+
+
+.none:hover {
+
+
+    color: orange;
+
+}
+
+h3 {
+
+    text-align: center;
+    margin: 5%;
+    font-size: 150%;
+    color: #239400;
+    margin-top: 10%;
+
+
+}
+
+.energie1 {
+
+
+    margin-top: 10%;
+    margin-left: 5%;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 5%;
+    color: #239400;
+    margin-bottom: 0%;
+    margin-right: 10%;
+
+}
+
+.panneau { 
+    
+    padding: 1%;
+    margin-top: 10%;
+    margin-left: 5%;
+    width: 40%;
+
+
+}
+
+.eolienne {
+
+    padding: 1%;
+    margin-top: 10%;
+    margin-left: 5%;
+    width: 40%;
+
+
+}
+
+.picture2 {
+
+    display: flex;
+    margin-bottom: 10%;
+
+}
+
+h4 {
+    
+    text-align: center;
+    margin: 5%;
+    font-size: 150%;
+    color: #239400;
+
+}
+
+.energie2 {
+    margin-top: 10%;
+    margin-left: 5%;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 5%;
+    color: #239400;
+    margin-bottom: 0%;
+    margin-right: 10%;
+
+}
+
+h5 {
+    
+    
+    text-align: center;
+    margin: 5%;
+    margin-top: 10%;
+    font-size: 150%;
+    color: #239400;
+
+}
+
+
+.energie3 {
+
+    margin-top: 10%;
+    margin-left: 5%;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 5%;
+    color: #239400;
+    margin-bottom: 0%;
+    margin-right: 10%;
+
+}
+
+
+h6 { 
+    text-align: center;
+    margin: 5%;
+    margin-top: 10%;
+    font-size: 150%;
+    color: #239400;
+
+}
+
+.energie4 {
+
+    margin-top: 10%;
+    margin-left: 5%;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 5%;
+    color: #239400;
+    margin-bottom: 0%;
+    margin-right: 10%;
+}
+
+
+.video {
+
+    display: flex;
+    justify-content: center;
+    margin: 20%;
+    
+
+}
+
+.down {
+
+    color: #239400;
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+    margin: 1%;
+
+
+
+}
+
+
+.listfooter {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+footer {
+
+    border: 1px solid #239400;
+
+}
+
+}
+
+@media screen and (max-width: 768px) {
+
+
+    body {
+
+        background-color: #E2FFD9;
+       
+         }
+
+         h1 {
+            
+            margin: 2%;
+            padding: 1%;
+            padding-left: 10%;
+            font-size: 300%;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: #239400;
+            font-style: italic;
+            border: 5px solid
+            
+        
+        }
+
+        .picture1 { 
+            padding: 1%;
+            margin-top: 10%;
+            margin-left: 5%;
+            width: 100%;
+        }
+
+
+        .main {
+
+            width: 90%;
+
+
+        }
+
+
+        h2 {
+
+            margin-left: 5%;
+            margin-top: 10%;
+            margin-bottom: 10%;
+            font-size: 200%;
+            text-decoration: underline;
+            color: #239400;
+            font-weight: bold;
+    
+    }
+
+    .titre {
+        
+        margin-left: 10%;
+        margin-bottom: 2%;
+        list-style: circle;
+        font-size: 150%;
+    }
+
+    .none {
+    
+        text-decoration: none;
+        color: #239400;
+    
+
+
+}
+
+
+.none:hover {
+
+
+    color: orange;
+
+}
+
+h3 {
+
+    text-align: center;
+    margin: 5%;
+    font-size: 150%;
+    color: #239400;
+    margin-top: 10%;
+
+
+}
+
+.energie1 {
+
+
+    margin-top: 10%;
+    margin-left: 5%;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 5%;
+    color: #239400;
+    margin-bottom: 0%;
+    margin-right: 10%;
+
+}
+
+.panneau { 
+    
+    padding: 1%;
+    margin-top: 10%;
+    margin-left: 5%;
+    width: 40%;
+
+
+}
+
+.eolienne {
+
+    padding: 1%;
+    margin-top: 10%;
+    margin-left: 5%;
+    width: 40%;
+
+
+}
+
+.picture2 {
+
+    display: flex;
+    margin-bottom: 10%;
+
+}
+
+h4 {
+    
+    text-align: center;
+    margin: 5%;
+    font-size: 150%;
+    color: #239400;
+
+}
+
+.energie2 {
+    margin-top: 10%;
+    margin-left: 5%;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 5%;
+    color: #239400;
+    margin-bottom: 0%;
+    margin-right: 10%;
+
+}
+
+h5 {
+    
+    
+    text-align: center;
+    margin: 5%;
+    margin-top: 10%;
+    font-size: 150%;
+    color: #239400;
+
+}
+
+
+.energie3 {
+
+    margin-top: 10%;
+    margin-left: 5%;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 5%;
+    color: #239400;
+    margin-bottom: 0%;
+    margin-right: 10%;
+
+}
+
+
+h6 { 
+    text-align: center;
+    margin: 5%;
+    margin-top: 10%;
+    font-size: 150%;
+    color: #239400;
+
+}
+
+.energie4 {
+
+    margin-top: 10%;
+    margin-left: 5%;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 5%;
+    color: #239400;
+    margin-bottom: 0%;
+    margin-right: 10%;
+}
+
+
+.video {
+
+    display: flex;
+    justify-content: center;
+    margin: 20%;
+    
+
+}
+
+.down {
+
+    color: #239400;
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+    margin: 1%;
+
+
+
+}
+
+
+.listfooter {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+footer {
+
+    border: 1px solid #239400;
+
+}
+
+
+}
