@@ -18,6 +18,7 @@ body {
    
         width: 80%;
          margin: 5%;
+         margin-top: 0;
    
 }
 
@@ -25,7 +26,7 @@ nav {
 
         display: flex;
         margin: 5%;
-    
+            
     }
 
 .onglet {
@@ -74,7 +75,7 @@ h1 {
 .welcome {
 
         width: 80%;
-        margin-bottom: 10%;
+        margin-bottom: 1%;
         margin-left: 5%;
         margin-right: 5%;
         
@@ -109,6 +110,7 @@ h3 {
         font-size: 150%;
         color: #239400;
         margin-top: 10%;
+        font-weight: bold;
 
 
 }
@@ -133,6 +135,7 @@ h4 {
         margin: 5%;
         font-size: 150%;
         color: #239400;
+        font-weight: bold;
 
 }
 
@@ -156,6 +159,7 @@ h5 {
         margin-top: 10%;
         font-size: 150%;
         color: #239400;
+        font-weight: bold;
 
 }
 
@@ -178,6 +182,7 @@ h6 {
         margin: 5%;
         font-size: 150%;
         color: #239400;
+        font-weight: bold;
 
 }
 
@@ -202,26 +207,29 @@ h6 {
         justify-content: center;
         padding: 2%;
         margin: 1%;
-        margin-left: 10%;
-
-}
-
-
-
-.listfooter {
-
+    
+    
+    
+    }
+    
+    
+    .listfooter {
         margin: 0 auto;
         display: flex;
+        justify-content: center;
     
-}
-
-
-footer {
-
-        margin-top: 10%;
+    
+    }
+    
+    
+    footer {
+    
         border: 1px solid #239400;
+    
+    }
+    
 
-}
+
 
 }
 
@@ -332,6 +340,7 @@ h3 {
         font-size: 150%;
         color: #239400;
         margin-top: 10%;
+        font-weight: bold;
 
 
 }
@@ -355,6 +364,7 @@ h4 {
         margin: 5%;
         font-size: 150%;
         color: #239400;
+        font-weight: bold;
 
 }
 
@@ -378,6 +388,7 @@ h5 {
         margin-top: 10%;
         font-size: 150%;
         color: #239400;
+        font-weight: bold;
 
 }
 
@@ -400,6 +411,7 @@ h6 {
         margin: 5%;
         font-size: 150%;
         color: #239400;
+        font-weight: bold;
 
 }
 
