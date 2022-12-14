@@ -19,6 +19,8 @@ body {
         width: 80%;
          margin: 5%;
          margin-top: 0;
+         margin-left: 12%;
+         
    
 }
 
@@ -26,6 +28,7 @@ nav {
 
         display: flex;
         margin: 5%;
+        
             
     }
 
@@ -36,6 +39,7 @@ nav {
         
         margin: 5%;
         margin-bottom: 0%;
+        margin-left: 8%;
         
         color: #239400;
         font-weight: bold;
@@ -76,7 +80,7 @@ h1 {
 
         width: 80%;
         margin-bottom: 1%;
-        margin-left: 5%;
+        margin-left: 10%;
         margin-right: 5%;
         
 
