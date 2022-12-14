@@ -228,8 +228,21 @@ h6 {
     
     }
     
+    h7{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        margin: 5%;
+        font-size: 150%;
+        color: #239400;
+        font-weight: bold;
 
+    }
+    .container{
 
+        text-align: center;
+
+    }
 
 }
 
@@ -427,6 +440,22 @@ h6 {
 
 
 }
+
+h7{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        margin: 5%;
+        font-size: 150%;
+        color: #239400;
+        font-weight: bold;
+
+    }
+    .container{
+
+        text-align: center;
+
+    }
 
 
 .down {
