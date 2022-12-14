@@ -34,12 +34,12 @@ window.onload = () => {
         if (bmi < 18.6) result.innerHTML =
             `Trop maigre : <span>${bmi}</span>`;
             
-        else if (bmi >= 18.6 && bmi < 24.9) 
+        else if (bmi >= 18.6 && bmi < 24.99) 
             result.innerHTML = 
                 `Equilibré : <span>${bmi}</span>`;
   
         else result.innerHTML =
             `Surpoids : <span>${bmi}</span>`;
-            alert("VOTRE SANTE EST EN DANGER");
+            
     }
   }
